@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\bin\Debug\net6.0\zadacha_47.exe
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\bin\Debug\net6.0\zadacha_47.deps.json
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\bin\Debug\net6.0\zadacha_47.runtimeconfig.json
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\bin\Debug\net6.0\zadacha_47.dll
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\bin\Debug\net6.0\zadacha_47.pdb
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\zadacha_47.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\zadacha_47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\zadacha_47.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\zadacha_47.AssemblyInfo.cs
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\zadacha_47.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\zadacha_47.dll
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\refint\zadacha_47.dll
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\zadacha_47.pdb
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\zadacha_47.genruntimeconfig.cache
+D:\Users\User\Desktop\Домашняя работа к семинару 7\zadacha_47\obj\Debug\net6.0\ref\zadacha_47.dll
